@@ -42,22 +42,6 @@
 
 ---
 
-<details>
-<summary><samp>CAPABILITIES</samp></summary>
-<br>
-
-| | |
-|:--|:--|
-| **AI / ML** | Claude · GPT · Gemini · RAG · MCP Servers · Multi-LLM Orchestration · Agentic Frameworks |
-| **Healthcare** | PIPEDA · BC PIPA · Quebec Law 25 · Clinical Triage AI · FHIR / HL7 |
-| **iOS** | Swift · UIKit · SwiftUI |
-| **Web** | Next.js · React · TypeScript · Python · FastAPI |
-| **Infra** | AWS · Docker · Terraform · CI/CD · systemd |
-
-</details>
-
----
-
 <p align="center">
   <samp>49.2827° N, 123.1207° W · Vancouver, BC</samp>
   <br><br>
