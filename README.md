@@ -48,15 +48,7 @@
 
 <br><br>
 
-Nearly a decade. Led a 6-person technical team building healthcare and government systems at national scale.
-
-```
-BC Health Gateway ·················· 100k+ users · 2,495 commits
-US ████████ ████ system ··········· CLASSIFIED
-Nova Scotia ████████ health ████ ·· RESTRICTED
-BCLC ████████ Identity ████ ······· CLASSIFIED
-+ Disney · Ripley's · CAA · BC Ferries · BC Hydro · Alberta Gov · ...
-```
+Nearly a decade delivering critical healthcare and government systems.
 
 <br>
 
