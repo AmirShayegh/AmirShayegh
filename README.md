@@ -42,18 +42,6 @@
 
 ---
 
-<br>
-
-<samp>EY (ERNST & YOUNG)</samp>
-
-<br><br>
-
-Nearly a decade delivering critical healthcare and government systems.
-
-<br>
-
----
-
 <details>
 <summary><samp>CAPABILITIES</samp></summary>
 <br>
