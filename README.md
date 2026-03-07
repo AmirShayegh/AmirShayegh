@@ -16,7 +16,7 @@
 
 <br>
 
-**[Jamie Health](https://www.jamieapp.com)** — Built Canada's first compliant AI triage system. Symptoms → urgency detection → clinical routing. PIPEDA / BC PIPA / Law 25. In BC pilot.
+**[Jamie Health](https://www.jamieapp.com)** — Building Canada's first compliant AI triage system.
 
 **[WikiSleep](https://www.wikisleep.com)** — Rebuilt a sleep platform from the ground up. CMS, admin dashboard, native apps. 230+ episodes. iOS & Android.
 
