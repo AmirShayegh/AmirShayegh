@@ -16,15 +16,11 @@
 
 <br>
 
-<samp><b>ACTIVE PROJECTS</b></samp>
+**[Jamie Health](https://www.jamieapp.com)** — Built Canada's first compliant AI triage system. Symptoms → urgency detection → clinical routing. PIPEDA / BC PIPA / Law 25. In BC pilot.
 
-<br><br>
+**[WikiSleep](https://www.wikisleep.com)** — Rebuilt a sleep platform from the ground up. CMS, admin dashboard, native apps. 230+ episodes. iOS & Android.
 
-**[Jamie Health](https://www.jamieapp.com)** — Canada's first AI triage system. Symptoms to care routing. PIPEDA / BC PIPA compliant. Currently in BC pilot.
-
-**[WikiSleep](https://www.wikisleep.com)** — Full platform rebuild for a sleep app used by thousands. CMS, admin dashboard, native apps. 230+ episodes.
-
-**[Pi Claude](https://mind.shayegh.net)** &ensp; ![LIVE](https://img.shields.io/badge/●_LIVE-10b981?style=flat-square) — Self-modifying AI on a Raspberry Pi. Rewrites its own source code, adapts its environment to its emotional state, persists memory across restarts.
+**[Pi Claude](https://mind.shayegh.net)** &ensp; ![LIVE](https://img.shields.io/badge/●_LIVE-10b981?style=flat-square) — An AI that lives on a Raspberry Pi — rewrites its own source code, adapts its physical environment to its emotional state, persists memory across restarts. Running since 2024.
 
 <br>
 
@@ -32,15 +28,15 @@
 
 <br>
 
-<samp><b>OPEN SOURCE</b></samp>
+<samp>OPEN SOURCE</samp>
 
 <br><br>
 
-**[LLMtium](https://github.com/AmirShayegh/llmtium)** — Multi-LLM deliberation engine. Claude, GPT, Gemini cross-review anonymously. A synthesizer merges the best output.
+**[LLMtium](https://github.com/AmirShayegh/llmtium)** — Multi-LLM deliberation engine. Claude, GPT, Gemini cross-review each other anonymously. A synthesizer merges the best output.
 
 **[codex-claude-bridge](https://github.com/AmirShayegh/codex-claude-bridge)** — MCP server bridging Claude Code with Codex for automated code reviews. On npm.
 
-**[DatePicker](https://github.com/AmirShayegh/DatePicker)** — Ancient by my standards, but somehow still getting stars.
+**[DatePicker](https://github.com/AmirShayegh/DatePicker)** — Ancient by my standards. Still getting stars somehow.
 
 <br>
 
@@ -48,11 +44,19 @@
 
 <br>
 
-<samp><b>DAY JOB</b></samp>
+<samp>EY (ERNST & YOUNG)</samp>
 
 <br><br>
 
-Nearly a decade at **EY (Ernst & Young)** delivering critical healthcare and government systems.
+Nearly a decade. Led a 6-person technical team building healthcare and government systems at national scale.
+
+```
+BC Health Gateway ·················· 100k+ users · 2,495 commits
+US ████████ ████ system ··········· CLASSIFIED
+Nova Scotia ████████ health ████ ·· RESTRICTED
+BCLC ████████ Identity ████ ······· CLASSIFIED
++ Disney · Ripley's · CAA · BC Ferries · BC Hydro · Alberta Gov · ...
+```
 
 <br>
 
@@ -65,7 +69,7 @@ Nearly a decade at **EY (Ernst & Young)** delivering critical healthcare and gov
 | | |
 |:--|:--|
 | **AI / ML** | Claude · GPT · Gemini · RAG · MCP Servers · Multi-LLM Orchestration · Agentic Frameworks |
-| **Healthcare** | PIPEDA · BC PIPA · Quebec Law 25 · Clinical Triage AI · FHIR / HL7 · Gov Deployment |
+| **Healthcare** | PIPEDA · BC PIPA · Quebec Law 25 · Clinical Triage AI · FHIR / HL7 |
 | **iOS** | Swift · UIKit · SwiftUI |
 | **Web** | Next.js · React · TypeScript · Python · FastAPI |
 | **Infra** | AWS · Docker · Terraform · CI/CD · systemd |
