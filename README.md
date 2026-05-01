@@ -4,13 +4,10 @@
 
 <p align="center">
   <a href="https://shayegh.ca">
-    <img src="https://img.shields.io/badge/shayegh.ca-ff4d12?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
-  </a>&ensp;
-  <a href="mailto:shayegh@me.com">
-    <img src="https://img.shields.io/badge/shayegh@me.com-171717?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/shayegh.ca-c6ff3a?style=flat-square&logo=safari&logoColor=171717&labelColor=171717" alt="Portfolio" />
   </a>&ensp;
   <a href="https://linkedin.com/in/shayegh">
-    <img src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-c6ff3a?style=flat-square&logo=linkedin&logoColor=171717&labelColor=171717" alt="LinkedIn" />
   </a>
 </p>
 
