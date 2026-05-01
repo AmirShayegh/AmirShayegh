@@ -16,10 +16,6 @@
 
 <br>
 
-AI engineer and agentic developer. Nine years shipping native iOS at provincial and government scale. Designed a server-driven mobile UI platform adopted for US Department of Defense healthcare. Core developer on BC Health Gateway and lead on BC Vaccine Card Verifier (Canada's first vaccine verification app). Now building AI-native products at the intersection of mobile and AI.
-
-<br>
-
 <samp>BUILDING</samp>
 
 <br><br>
@@ -39,20 +35,6 @@ AI clinical triage system in development. Dual-path safety architecture where de
 **[Pi Claude](https://mind.shayegh.net)**
 <br>
 An AI that lives on a Raspberry Pi. Rewrites its own source code, adapts its physical environment to its emotional state, persists memory across restarts. 8 production services, 71+ API endpoints, 887 tests. Running since 2024.
-
-<br>
-
----
-
-<br>
-
-<samp>DAY JOB</samp>
-
-<br><br>
-
-**Senior Consultant @ EY Canada** &ensp; <samp>Aug 2017 → Present</samp>
-<br>
-Currently advising **Mazda North American Operations** on next-generation iOS and Android vehicle apps. Architect of the server-driven mobile UI platform adopted for US Department of Defense healthcare. Core dev on BC Health Gateway, lead on BC Vaccine Card Verifier, BC Ministry of Health Team-Based Care, and many more.
 
 <br>
 
