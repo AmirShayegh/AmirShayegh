@@ -62,13 +62,3 @@ Autonomous AngularJS to Angular 20+ migration tool. AST-based code transformatio
 **[DatePicker](https://github.com/AmirShayegh/DatePicker)** &ensp; ![Stars](https://img.shields.io/github/stars/AmirShayegh/DatePicker?style=flat-square&label=%E2%98%85&color=171717)
 <br>
 A clean date picker with calendar for iPhone and iPad. Old, but still drawing traffic.
-
-<br>
-
----
-
-<p align="center">
-  <samp>North Vancouver, BC · 49.32° N, 123.07° W</samp>
-  <br>
-  <a href="https://shayegh.ca"><samp>shayegh.ca ↗</samp></a>
-</p>
