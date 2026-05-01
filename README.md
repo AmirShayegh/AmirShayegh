@@ -36,7 +36,7 @@ Native SwiftUI bedtime story app for kids 4 to 9. Multi-provider AI pipeline wit
 <br>
 AI clinical triage system in development. Dual-path safety architecture where deterministic evaluations can only escalate. Designed to PIPEDA, BC PIPA, and Quebec Law 25.
 
-**[Pi Claude](https://mind.shayegh.net)** &ensp; ![LIVE](https://img.shields.io/badge/%E2%97%8F_LIVE-c6ff3a?style=flat-square&labelColor=171717)
+**[Pi Claude](https://mind.shayegh.net)**
 <br>
 An AI that lives on a Raspberry Pi. Rewrites its own source code, adapts its physical environment to its emotional state, persists memory across restarts. 8 production services, 71+ API endpoints, 887 tests. Running since 2024.
 
@@ -53,10 +53,6 @@ An AI that lives on a Raspberry Pi. Rewrites its own source code, adapts its phy
 **Senior Consultant @ EY Canada** &ensp; <samp>Aug 2017 → Present</samp>
 <br>
 Currently advising **Mazda North American Operations** on next-generation iOS and Android vehicle apps. Architect of the server-driven mobile UI platform adopted for US Department of Defense healthcare. Core dev on BC Health Gateway, lead on BC Vaccine Card Verifier, BC Ministry of Health Team-Based Care, and many more.
-
-**Lead Developer @ WikiSleep** &ensp; <samp>Aug 2025 → Present</samp>
-<br>
-Native rebuild of a sleep wellness app from Flutter v1 to native v2. iOS v2 shipped to the App Store April 2026. Custom CMS on AWS, Firestore storage, Next.js admin portal.
 
 <br>
 
