@@ -73,7 +73,5 @@ A clean date picker with calendar for iPhone and iPad. Old, but still drawing tr
 <p align="center">
   <samp>North Vancouver, BC · 49.32° N, 123.07° W</samp>
   <br>
-  <samp>Open to AI / iOS staff roles.</samp>
-  <br><br>
   <a href="https://shayegh.ca"><samp>shayegh.ca ↗</samp></a>
 </p>
