@@ -30,7 +30,6 @@
   <text x="60" y="265" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="104" font-weight="800" letter-spacing="-5">
     <tspan fill="#ff4d12">+</tspan><tspan fill="#0c0c0c"> mobile</tspan>
   </text>
-  <text x="610" y="225" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="500" fill="#ff4d12" letter-spacing="-1">9y</text>
 
   <!-- Bottom strip mono: project ribbon -->
   <text x="60" y="305" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#6a6a64" letter-spacing="2">storybloq · picolibro · jamie health · pi claude · ey · wikisleep</text>
