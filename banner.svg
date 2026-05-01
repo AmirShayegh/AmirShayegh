@@ -16,13 +16,6 @@
   <line x1="60" y1="55" x2="100" y2="55" stroke="#0c0c0c" stroke-width="1.5"/>
   <text x="110" y="59" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#6a6a64" letter-spacing="3" font-weight="500">AMIR SHAYEGH · PORTFOLIO</text>
 
-  <!-- Status pill -->
-  <g transform="translate(880, 42)">
-    <rect width="260" height="26" rx="13" fill="#e8e5dc" stroke="#d8d5cc" stroke-width="1"/>
-    <circle cx="16" cy="13" r="4" fill="#c6ff3a"/>
-    <text x="30" y="17" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="9" fill="#2a2a28" letter-spacing="1.8" font-weight="600">OPEN TO AI / iOS STAFF ROLES</text>
-  </g>
-
   <!-- Display: agentic -->
   <text x="60" y="170" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="104" font-weight="800" fill="#0c0c0c" letter-spacing="-5">agentic</text>
 
